@@ -25,5 +25,5 @@ jobs:
           source-directory: homepage/public
           destination-github-username: davidursprung
           destination-repository-name: davidursprung.github.io 
-          user-email: lara.ursprung0508@gmail.com
+          user-email: ursprungdavid@gmail.com
           
